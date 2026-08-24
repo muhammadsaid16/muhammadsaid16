@@ -41,10 +41,9 @@ const muhammed = {
 
 **AI & Tooling**
 
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge)
-![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-8B5CF6?style=for-the-badge)
-![OpenCode](https://img.shields.io/badge/OpenCode-F97316?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white&style=for-the-badge)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDFsOCA4LTggOC04LTggOC04eiIvPjxwYXRoIGZpbGw9IiNmZmYiIG9wYWNpdHk9Ii42NSIgZD0iTTEyIDE5LjVsMy0zIDEuNSAxLjVMMTIgMjIuNSA3LjUgMTggOSAxNi41bDMgM3oiLz48L3N2Zz4K&style=for-the-badge)
+![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-8B5CF6?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIyIDNjLTYgMC0xMSAyLTE0IDYtMiAyLjUtMyA1LjUtMyA5IDItMSA0LTEuNSA2LTMtLjUgMi0uNSA0IDAgNiAyLTEuNSAzLjUtMy41IDQuNS02IC41IDEuNSAxLjUgMyAzIDQgLjUtMiAuNS00LjUgMC03IDItLjUgMy41LTIgMy41LTl6Ii8+PC9zdmc+Cg==&style=for-the-badge)
+![OpenCode](https://img.shields.io/badge/OpenCode-F97316?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTQgNWw4IDctOCA3VjV6bTEwIDEyaDZ2MmgtNnYtMnoiLz48L3N2Zz4K&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
