@@ -5,7 +5,7 @@
 ```ts
 const muhammed = {
   age: 16,
-  focus: ["offline-first PWAs", "SaaS products", "motion design"],
+  focus: ["offline-first PWAs", "SaaS products", "motion design", "AI-assisted development"],
   currently: "shipping study & fintech tools",
 };
 ```
@@ -39,8 +39,12 @@ const muhammed = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 ![IndexedDB](https://img.shields.io/badge/IndexedDB-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 
-**Tooling**
+**AI & Tooling**
 
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white&style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge)
+![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white&style=for-the-badge)
+![Windsurf](https://img.shields.io/badge/Windsurf-00B4D8?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
