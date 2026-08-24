@@ -41,10 +41,10 @@ const muhammed = {
 
 **AI & Tooling**
 
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge)
+![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-8B5CF6?style=for-the-badge)
+![OpenCode](https://img.shields.io/badge/OpenCode-F97316?style=for-the-badge)
 ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white&style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge)
-![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white&style=for-the-badge)
-![Windsurf](https://img.shields.io/badge/Windsurf-00B4D8?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
