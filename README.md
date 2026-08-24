@@ -60,9 +60,6 @@ const muhammed = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sable.vercel.app/api?username=mohamedvlohlyflvh&show_icons=true&hide_border=true&bg_color=0B0F17&title_color=FACC15&icon_color=FACC15&text_color=E5E7EB&ring_color=FACC15&include_all_commits=true)
-![Top Languages](https://github-readme-stats-sable.vercel.app/api/top-langs/?username=mohamedvlohlyflvh&layout=compact&hide_border=true&bg_color=0B0F17&title_color=FACC15&text_color=E5E7EB&langs_count=8)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=mohamedvlohlyflvh&theme=dark&hide_border=true&background=0B0F17&ring=FACC15&fire=FACC15&currStreakLabel=FACC15&sideLabels=E5E7EB)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedvlohlyflvh&theme=react-dark&bg_color=0B0F17&color=E5E7EB&line=FACC15&point=FACC15&hide_border=true)
