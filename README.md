@@ -1,4 +1,12 @@
-# Muhammed Said
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=FACC15&center=true&vCenter=true&width=600&height=60&lines=Muhammed+Said;Frontend-first+Full-stack+Developer;Offline-first+PWAs+%C2%B7+SaaS+%C2%B7+Motion+Design)
+
+![Profile Views](https://komarev.com/ghpvc/?username=mohamedvlohlyflvh&color=FACC15&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+# About Me
 
 **Frontend-first full-stack developer.** I build offline-first PWAs and interfaces with real motion — Next.js, React, TypeScript, Tailwind.
 
@@ -47,6 +55,19 @@ const muhammed = {
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-sable.vercel.app/api?username=mohamedvlohlyflvh&show_icons=true&hide_border=true&bg_color=0B0F17&title_color=FACC15&icon_color=FACC15&text_color=E5E7EB&ring_color=FACC15&include_all_commits=true)
+![Top Languages](https://github-readme-stats-sable.vercel.app/api/top-langs/?username=mohamedvlohlyflvh&layout=compact&hide_border=true&bg_color=0B0F17&title_color=FACC15&text_color=E5E7EB&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mohamedvlohlyflvh&theme=dark&hide_border=true&background=0B0F17&ring=FACC15&fire=FACC15&currStreakLabel=FACC15&sideLabels=E5E7EB)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedvlohlyflvh&theme=react-dark&bg_color=0B0F17&color=E5E7EB&line=FACC15&point=FACC15&hide_border=true)
+
+</div>
 
 ## 📫 Contact
 
