@@ -65,7 +65,3 @@ const muhammed = {
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedvlohlyflvh&theme=react-dark&bg_color=0B0F17&color=E5E7EB&line=FACC15&point=FACC15&hide_border=true)
 
 </div>
-
-## 📫 Contact
-
-GitHub: [@mohamedvlohlyflvh](https://github.com/mohamedvlohlyflvh)
