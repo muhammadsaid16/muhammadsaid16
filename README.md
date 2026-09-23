@@ -22,10 +22,10 @@ const muhammed = {
 
 | Project | What it is | Stack |
 |---------|-----------|-------|
-| [**StudyMax**](https://github.com/mohamedvlohlyflvh/openstudy) · [demo]([openstudy-v1.vercel.app](https://openstudy-v1.vercel.app/)) | Spaced-repetition study companion — flashcards, notes, sessions. Offline-first PWA with the "Aurora Glass" design system | Next.js · Dexie · GSAP |
-| [**Qestak**](https://github.com/mohamedvlohlyflvh/Qestak) · [demo](https://qestak.vercel.app) | Smart installment-management platform for merchants — contracts, customers, collection algorithms | Next.js · Prisma · PostgreSQL |
-| [**Hymeria Toolkit**](https://github.com/mohamedvlohlyflvh/Hymerious) · [demo](https://hymeria-toolkit.vercel.app) | Minimalist productivity dashboard — finances, kanban, notes, GitHub pulse. 100% local-first | Next.js · IndexedDB · Recharts |
-| [**Portfolio**](https://github.com/mohamedvlohlyflvh/Portfolio) | This developer's portfolio — brutalist dark design, scramble-decode hero, bento work grid | Next.js · GSAP · Tailwind |
+| [**Ruvren**] [demo]([Ruvren.vercel.app](https://Ruvren.vercel.app/)) | Spaced-repetition study companion — flashcards, notes, sessions. Offline-first PWA with the "Aurora Glass" design system | Next.js · Dexie · GSAP |
+| [**Qestak**](https://github.com/muhammadsaid16/Qestak) · [demo](https://qestak.vercel.app) | Smart installment-management platform for merchants — contracts, customers, collection algorithms | Next.js · Prisma · PostgreSQL |
+| [**Hymeria Toolkit**](https://github.com/muhammadsaid16/Hymerious) · [demo](https://hymeria-toolkit.vercel.app) | Minimalist productivity dashboard — finances, kanban, notes, GitHub pulse. 100% local-first | Next.js · IndexedDB · Recharts |
+| [**Portfolio**](https://github.com/muhammadsaid16/Portfolio) | This developer's portfolio — brutalist dark design, scramble-decode hero, bento work grid | Next.js · GSAP · Tailwind |
 
 ## 🛠 Stack
 
@@ -60,7 +60,7 @@ const muhammed = {
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mohamedvlohlyflvh&theme=dark&hide_border=true&background=0B0F17&ring=FACC15&fire=FACC15&currStreakLabel=FACC15&sideLabels=E5E7EB)
+![GitHub Streak](https://streak-stats.demolab.com?user=muhammadsaid16&theme=dark&hide_border=true&background=0B0F17&ring=FACC15&fire=FACC15&currStreakLabel=FACC15&sideLabels=E5E7EB)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedvlohlyflvh&theme=react-dark&bg_color=0B0F17&color=E5E7EB&line=FACC15&point=FACC15&hide_border=true)
 
