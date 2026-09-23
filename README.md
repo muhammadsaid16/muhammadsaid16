@@ -65,6 +65,5 @@ const muhammed = {
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=muhammadsaid16&theme=dark&hide_border=true&background=0B0F17&ring=FACC15&fire=FACC15&currStreakLabel=FACC15&sideLabels=E5E7EB)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadsaid16&theme=react-dark&bg_color=0B0F17&color=E5E7EB&line=FACC15&point=FACC15&hide_border=true)
 
 </div>
