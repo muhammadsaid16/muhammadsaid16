@@ -22,7 +22,7 @@ const muhammed = {
 
 | Project | What it is | Stack |
 |---------|-----------|-------|
-| [**Ruvren**]([Ruvren.vercel.app](https://Ruvren.vercel.app/)) | Spaced-repetition study companion — flashcards, notes, sessions. Offline-first PWA with the "Aurora Glass" design system | Next.js · Dexie · GSAP |
+| [**Ruvren**](https://Ruvren.vercel.app) | Spaced-repetition study companion — flashcards, notes, sessions. Offline-first PWA with the "Aurora Glass" design system | Next.js · Dexie · GSAP |
 | [**Qestak**](https://github.com/muhammadsaid16/Qestak) · [demo](https://qestak.vercel.app) | Smart installment-management platform for merchants — contracts, customers, collection algorithms | Next.js · Prisma · PostgreSQL |
 | [**Hymeria Toolkit**](https://github.com/muhammadsaid16/Hymerious) · [demo](https://hymeria-toolkit.vercel.app) | Minimalist productivity dashboard — finances, kanban, notes, GitHub pulse. 100% local-first | Next.js · IndexedDB · Recharts |
 | [**Portfolio**](https://github.com/muhammadsaid16/Portfolio) | This developer's portfolio — brutalist dark design, scramble-decode hero, bento work grid | Next.js · GSAP · Tailwind |
