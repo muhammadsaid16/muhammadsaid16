@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=FACC15&center=true&vCenter=true&width=600&height=60&lines=Muhammed+Said;Frontend-first+Full-stack+Developer;Offline-first+PWAs+%C2%B7+SaaS+%C2%B7+Motion+Design)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=FACC15&center=true&vCenter=true&width=600&height=60&lines=Muhammed+Said;Frontend-first+Full-stack+Developer;Offline-first+%C2%B7+SaaS+%C2%B7+Motion+Design)
 
 **[Portfolio](https://hyro-six.vercel.app)** · **[Email](mailto:newmosaeed@gmail.com)**
 
