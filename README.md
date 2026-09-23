@@ -2,7 +2,9 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=FACC15&center=true&vCenter=true&width=600&height=60&lines=Muhammed+Said;Frontend-first+Full-stack+Developer;Offline-first+PWAs+%C2%B7+SaaS+%C2%B7+Motion+Design)
 
-![Profile Views](https://komarev.com/ghpvc/?username=mohamedvlohlyflvh&color=FACC15&style=for-the-badge&label=PROFILE+VIEWS)
+**[Portfolio](https://hyro-six.vercel.app)** · **[Email](mailto:newmosaeed@gmail.com)**
+
+![Profile Views](https://komarev.com/ghpvc/?username=muhammadsaid16&color=FACC15&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -15,17 +17,18 @@ const muhammed = {
   age: 16,
   focus: ["offline-first PWAs", "SaaS products", "motion design", "AI-assisted development"],
   currently: "shipping study & fintech tools",
+  portfolio: "https://hyro-six.vercel.app",
 };
 ```
 
 ## 🚀 Selected Work
 
-| Project | What it is | Stack |
-|---------|-----------|-------|
-| [**Ruvren**](https://Ruvren.vercel.app) | Spaced-repetition study companion — flashcards, notes, sessions. Offline-first PWA with the "Aurora Glass" design system | Next.js · Dexie · GSAP |
-| [**Qestak**](https://github.com/muhammadsaid16/Qestak) · [demo](https://qestak.vercel.app) | Smart installment-management platform for merchants — contracts, customers, collection algorithms | Next.js · Prisma · PostgreSQL |
-| [**Hymeria Toolkit**](https://github.com/muhammadsaid16/Hymerious) · [demo](https://hymeria-toolkit.vercel.app) | Minimalist productivity dashboard — finances, kanban, notes, GitHub pulse. 100% local-first | Next.js · IndexedDB · Recharts |
-| [**Portfolio**](https://github.com/muhammadsaid16/Portfolio) | This developer's portfolio — brutalist dark design, scramble-decode hero, bento work grid | Next.js · GSAP · Tailwind |
+| Project | What it is | Stack | Links |
+|---------|-----------|-------|-------|
+| **Ruvren** | Spaced-repetition study companion — flashcards, notes and focus sessions. Offline-first PWA with an FSRS scheduling engine | Next.js · Dexie · GSAP | [live](https://ruvren.vercel.app) |
+| **Hymeria Toolkit** | Minimalist productivity dashboard — finances, kanban, notes, GitHub pulse. 100% local-first | Next.js · IndexedDB · Recharts | [live](https://hymeria-toolkit.vercel.app) |
+| **Qestak** | Smart installment-management platform for merchants — contracts, customers, collection algorithms. Arabic-first and offline-first | Next.js · Prisma · PostgreSQL · Dexie | [repo](https://github.com/muhammadsaid16/Qestak) · [live](https://qestak.vercel.app) |
+| **Hyro** — portfolio | Monochrome editorial portfolio: scramble-decode hero, alternating work rows, and motion that respects reduced-motion | Next.js 16 · Tailwind 4 · motion | [repo](https://github.com/muhammadsaid16/Portfolio) · [live](https://hyro-six.vercel.app) |
 
 ## 🛠 Stack
 
@@ -62,6 +65,6 @@ const muhammed = {
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=muhammadsaid16&theme=dark&hide_border=true&background=0B0F17&ring=FACC15&fire=FACC15&currStreakLabel=FACC15&sideLabels=E5E7EB)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedvlohlyflvh&theme=react-dark&bg_color=0B0F17&color=E5E7EB&line=FACC15&point=FACC15&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadsaid16&theme=react-dark&bg_color=0B0F17&color=E5E7EB&line=FACC15&point=FACC15&hide_border=true)
 
 </div>
